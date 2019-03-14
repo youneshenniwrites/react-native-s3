@@ -85,7 +85,7 @@ amplify push
 
 <img width="473" alt="cloudformation" src="https://user-images.githubusercontent.com/26605247/54111473-d7447f00-43db-11e9-9fe8-57edd0a36fe8.png">
 
-After few minutes of automated operations, the Amplify CLI will create an Amazon Cognito User Pool and Identity Pool to store users crendentials and an AWS AppSync GraphQL API to allow for CRUD operations between client and servers.
+After few minutes of automated operations, the Amplify CLI will create an Amazon Cognito User Pool and Identity Pool to store users crendentials and an S3 bucket to allow for CRUD operations for images.
 
 ## Running the application
 

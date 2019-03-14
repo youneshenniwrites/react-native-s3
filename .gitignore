@@ -1,0 +1,9 @@
+node_modules
+.expo
+npm-debug.*
+amplify
+node_modules/
+aws-exports.js
+awsconfiguration.json
+package-lock.json
+.babelrc

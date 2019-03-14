@@ -57,7 +57,7 @@ amplify init
 
 Follow the same instructions as below.
 
-<img width="561" alt="init" src="https://user-images.githubusercontent.com/26605247/54110565-98152e80-43d9-11e9-9eed-e728cbf2ecd6.png">
+<img width="722" alt="Screenshot 2019-03-14 at 20 09 41" src="https://user-images.githubusercontent.com/26605247/54388427-9bd4d980-4695-11e9-9592-ff4a4101ef7e.png">
 
 4. Configure an Amazon Cognito User Pool to store users credentials.
 
@@ -83,7 +83,7 @@ amplify add storage
 amplify push
 ```
 
-<img width="473" alt="cloudformation" src="https://user-images.githubusercontent.com/26605247/54111473-d7447f00-43db-11e9-9fe8-57edd0a36fe8.png">
+<img width="606" alt="Screenshot 2019-03-14 at 20 10 27" src="https://user-images.githubusercontent.com/26605247/54388490-b8711180-4695-11e9-8e41-9d27d5ba6d04.png">
 
 After few minutes of automated operations, the Amplify CLI will create an Amazon Cognito User Pool and Identity Pool to store users crendentials and an S3 bucket to allow for CRUD operations for images.
 

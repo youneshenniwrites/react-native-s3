@@ -42,7 +42,7 @@ cd react-native-s3
 2. Add AWS Amplify dependencies to your project.
 
 ```
-yarn add aws-amplify aws-amplify-react-native
+yarn add aws-amplify@1.1.7 aws-amplify-react-native@2.0.7
 
 # or
 
@@ -57,7 +57,7 @@ amplify init
 
 Follow the same instructions as below.
 
-<img width="722" alt="Screenshot 2019-03-14 at 20 09 41" src="https://user-images.githubusercontent.com/26605247/54388427-9bd4d980-4695-11e9-9592-ff4a4101ef7e.png">
+<img width="723" alt="Screenshot 2019-03-14 at 20 28 11" src="https://user-images.githubusercontent.com/26605247/54390741-210ebd00-469b-11e9-9186-c8ae4ce93de2.png">
 
 4. Configure an Amazon Cognito User Pool to store users credentials.
 

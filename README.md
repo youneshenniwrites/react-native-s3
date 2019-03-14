@@ -2,6 +2,8 @@
 
 <img width="1167" alt="layout" src="https://user-images.githubusercontent.com/26605247/54386524-0afbff00-4691-11e9-8f5c-a940da89e5cd.png">
 
+## Description
+
 This project integrates a React Native front-end with an AWS Amplify back-end that has user authentication (AWS Cognito) and the Storage API from AWS Amplify. This configuration allows us to perfomr CRUD operations to interact with Amazon S3 from our React native front end.
 
 ## App Overview
